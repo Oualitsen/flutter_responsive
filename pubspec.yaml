@@ -1,8 +1,9 @@
-name: responsive
-description: A new Flutter package project.
+name: flutter_responsive_tools
+description: Responsive tools for flutter.
 version: 0.0.1
-author:
-homepage:
+homepage: "https://rapidoc.app"
+repository: "https://github.com/Oualitsen/flutter_responsive"
+
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

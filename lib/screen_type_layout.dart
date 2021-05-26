@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:responsive/device_screen_type.dart';
-import 'package:responsive/responsive_builder.dart';
-import 'package:responsive/sizing_info.dart';
+import 'package:flutter_responsive_tools/device_screen_type.dart';
+import 'package:flutter_responsive_tools/responsive_builder.dart';
+import 'package:flutter_responsive_tools/sizing_info.dart';
 
 const double WIDTH_DESKTOP = 800;
 const double WIDTH_TABLET = 600;

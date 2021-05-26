@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive/device_screen_type.dart';
+import 'package:flutter_responsive_tools/device_screen_type.dart';
 
 class SizingInfo {
   final DeviceScreenType type;
